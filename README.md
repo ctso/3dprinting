@@ -1,2 +1,3 @@
-# 3dprinting
-Various 3D Printing things
+# 3d Printing
+
+This repository contains various things related to 3d Printing.
