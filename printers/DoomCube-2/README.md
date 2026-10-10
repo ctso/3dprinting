@@ -36,6 +36,4 @@ Currently not working: the hotend heater seems to drop out intermittently. I hav
 
 [My configuration](config/), including [printer.cfg](config/printer.cfg), probe docking macros in [quickdraw_probe.cfg](config/quickdraw_probe.cfg), and a `[z_calibration]` section in [customize.cfg](config/customize.cfg).
 
-`config/fluidd.cfg` points to `/home/ctso/fluidd-config/client.cfg` on the printer. That file isn’t included here.
-
 I’m running Danger Klipper, now called Kalico, at commit [`e449f3f41055834aafedc4687293ba7ad472fdb1`](https://github.com/KalicoCrew/kalico/tree/e449f3f41055834aafedc4687293ba7ad472fdb1).
