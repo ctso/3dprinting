@@ -1,6 +1,6 @@
 # DoomCube-2 photos
 
-Photos of the [DoomCube-2 build](../README.md). Click a filename to open the original exported image.
+Photos of my [DoomCube-2](../README.md).
 
 | Photo | View |
 | --- | --- |
@@ -15,5 +15,3 @@ Photos of the [DoomCube-2 build](../README.md). Click a filename to open the ori
 | <img src="IMG_5058.jpeg" alt="Power supply and electronics wiring" width="300"> | [IMG_5058.jpeg](IMG_5058.jpeg) — Power supply and wiring. |
 | <img src="IMG_5059.jpeg" alt="Expansion PCB and connected wiring" width="300"> | [IMG_5059.jpeg](IMG_5059.jpeg) — Expansion PCB. |
 | <img src="IMG_5062.jpeg" alt="Mechanical hour counter showing approximately 3746 hours" width="300"> | [IMG_5062.jpeg](IMG_5062.jpeg) — Custom mechanical hour counter. |
-
-The original filenames and image files are preserved.
